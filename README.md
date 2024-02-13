@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumanbisunkhe.
-- 👀 I have a keen interest in expanding my knowledge and expertise.
+- 👀 I have a keen interest in expanding my knowledge and expertise on various domains.
 - 🌱 I’m currently learning  Java programming.
 - 💞️ I'm seeking collaboration on projects that match my skills and interests.
 - 📫 You can reach out to me via email at sumanbisunkhe304@gmail.com .
