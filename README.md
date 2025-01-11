@@ -37,8 +37,6 @@
 - 🌱 Learning **Spring Boot** & **Microservices**
 - 👯 Open to collaborate on **Projects**
   </div>
-
-  <img width="220" alt="Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </div>
 
 </div>
