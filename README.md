@@ -120,7 +120,7 @@
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sumanbisunkhe&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
     </td>
     <td width="50%">
-      <img width="100%" src="https://img.shields.io/github/streak-stats/v1/sumanbisunkhe?theme=tokyonight" alt="GitHub Streak"/>
+      <img width="100%" src="https://streak-stats.demolab.com/?user=sumanbisunkhe" alt="GitHub Streak"/>
     </td>
   </tr>
   <tr>
