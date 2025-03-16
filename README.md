@@ -2,7 +2,7 @@
 
 # Suman Bisunkhe
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Java+Enthusiast;Tech+Enthusiast;Problem+Solver;BSc.CSIT+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Java+Enthusiast;Tech+Enthusiast;Problem+Solver;BSc.CSIT+student)](https://git.io/typing-svg)
 
 <p align="center" style="margin-left: 2rem; margin-right: 2rem;">
   <a href="https://www.linkedin.com/in/sumanbisunkhe">
